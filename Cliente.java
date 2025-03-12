@@ -1,5 +1,3 @@
-package livraria;
-
 public class Cliente extends Pessoa implements Usuario {
     private int numeroCartao;
     

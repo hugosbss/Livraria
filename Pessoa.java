@@ -1,5 +1,3 @@
-package livraria;
-
 public class Pessoa {
     private String nome, login, senha;
     private int idade;
